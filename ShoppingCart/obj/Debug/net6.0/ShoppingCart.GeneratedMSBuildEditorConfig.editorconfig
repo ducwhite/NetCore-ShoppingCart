@@ -1,0 +1,108 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ShoppingCart
+build_property.RootNamespace = ShoppingCart
+build_property.ProjectDir = C:\Users\Dau_Chan\Downloads\asp.net-core-6-.net-6-project-shopping-cart-main\asp.net-core-6-.net-6-project-shopping-cart-main\ShoppingCart\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Dau_Chan\Downloads\asp.net-core-6-.net-6-project-shopping-cart-main\asp.net-core-6-.net-6-project-shopping-cart-main\ShoppingCart
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Dau_Chan/Downloads/asp.net-core-6-.net-6-project-shopping-cart-main/asp.net-core-6-.net-6-project-shopping-cart-main/ShoppingCart/Areas/Admin/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dau_Chan/Downloads/asp.net-core-6-.net-6-project-shopping-cart-main/asp.net-core-6-.net-6-project-shopping-cart-main/ShoppingCart/Areas/Admin/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dau_Chan/Downloads/asp.net-core-6-.net-6-project-shopping-cart-main/asp.net-core-6-.net-6-project-shopping-cart-main/ShoppingCart/Areas/Admin/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dau_Chan/Downloads/asp.net-core-6-.net-6-project-shopping-cart-main/asp.net-core-6-.net-6-project-shopping-cart-main/ShoppingCart/Areas/Admin/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dau_Chan/Downloads/asp.net-core-6-.net-6-project-shopping-cart-main/asp.net-core-6-.net-6-project-shopping-cart-main/ShoppingCart/Areas/Admin/Views/Shared/_NotificationPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb25QYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dau_Chan/Downloads/asp.net-core-6-.net-6-project-shopping-cart-main/asp.net-core-6-.net-6-project-shopping-cart-main/ShoppingCart/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dau_Chan/Downloads/asp.net-core-6-.net-6-project-shopping-cart-main/asp.net-core-6-.net-6-project-shopping-cart-main/ShoppingCart/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dau_Chan/Downloads/asp.net-core-6-.net-6-project-shopping-cart-main/asp.net-core-6-.net-6-project-shopping-cart-main/ShoppingCart/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dau_Chan/Downloads/asp.net-core-6-.net-6-project-shopping-cart-main/asp.net-core-6-.net-6-project-shopping-cart-main/ShoppingCart/Views/Account/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dau_Chan/Downloads/asp.net-core-6-.net-6-project-shopping-cart-main/asp.net-core-6-.net-6-project-shopping-cart-main/ShoppingCart/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dau_Chan/Downloads/asp.net-core-6-.net-6-project-shopping-cart-main/asp.net-core-6-.net-6-project-shopping-cart-main/ShoppingCart/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dau_Chan/Downloads/asp.net-core-6-.net-6-project-shopping-cart-main/asp.net-core-6-.net-6-project-shopping-cart-main/ShoppingCart/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dau_Chan/Downloads/asp.net-core-6-.net-6-project-shopping-cart-main/asp.net-core-6-.net-6-project-shopping-cart-main/ShoppingCart/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dau_Chan/Downloads/asp.net-core-6-.net-6-project-shopping-cart-main/asp.net-core-6-.net-6-project-shopping-cart-main/ShoppingCart/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dau_Chan/Downloads/asp.net-core-6-.net-6-project-shopping-cart-main/asp.net-core-6-.net-6-project-shopping-cart-main/ShoppingCart/Views/Shared/Components/Categories/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcmllc1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dau_Chan/Downloads/asp.net-core-6-.net-6-project-shopping-cart-main/asp.net-core-6-.net-6-project-shopping-cart-main/ShoppingCart/Views/Shared/Components/SmallCart/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU21hbGxDYXJ0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dau_Chan/Downloads/asp.net-core-6-.net-6-project-shopping-cart-main/asp.net-core-6-.net-6-project-shopping-cart-main/ShoppingCart/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dau_Chan/Downloads/asp.net-core-6-.net-6-project-shopping-cart-main/asp.net-core-6-.net-6-project-shopping-cart-main/ShoppingCart/Views/Shared/_NotificationPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb25QYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dau_Chan/Downloads/asp.net-core-6-.net-6-project-shopping-cart-main/asp.net-core-6-.net-6-project-shopping-cart-main/ShoppingCart/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dau_Chan/Downloads/asp.net-core-6-.net-6-project-shopping-cart-main/asp.net-core-6-.net-6-project-shopping-cart-main/ShoppingCart/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dau_Chan/Downloads/asp.net-core-6-.net-6-project-shopping-cart-main/asp.net-core-6-.net-6-project-shopping-cart-main/ShoppingCart/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dau_Chan/Downloads/asp.net-core-6-.net-6-project-shopping-cart-main/asp.net-core-6-.net-6-project-shopping-cart-main/ShoppingCart/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ng3sh4r740
+
+[C:/Users/Dau_Chan/Downloads/asp.net-core-6-.net-6-project-shopping-cart-main/asp.net-core-6-.net-6-project-shopping-cart-main/ShoppingCart/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ce7yr55nmi
